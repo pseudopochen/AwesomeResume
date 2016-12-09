@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_d08d07dc8cc70b1c75fd233e38aaafbcc8cefd61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_966cf4bf6363b3c5b4174267ce305db156ba37c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_757ffce08a60efeb6d6893ffeee5b07caf624b79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_bbd361562b3d4df72764159132c961469beca362/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_bea676c9395b620b8de878bf11facfb09c41010d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_ec3e978b922c261c7baffdb589bea9fd12e78332/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_dde337a2571bd7615e7be929f32ca18e11fdfdb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_ce67151531f998ecae50acf44153b6f88303c173/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_05d18963c6a51f759047fca9bf0e748342f6ccfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e014f461715be5aa988f3133b1b870c815fbb050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_c000c1be61ba60eaa13faf3bbeaaa81c7750484d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_bde057f143bb2e825b2734c47f0a60e4597f2d16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_16eecbc9ac10e8daabb56f64ec3e1a236739d468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_a3b4b7c9683674e9a92652f85d3152fdf0d6b1f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="426f3cf70490fdf9354bb926b3e02b93df69b999">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b0f93b096b91b785a6bd4a8584e20e26215c7bc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="acfbb8d1549bfe0d64596ca2209615bf4b857b1b">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7fc84bdd9fd10d6820c7f8521564260632dd52d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2d67a759bd686b0ee258a3ee2299361ea8cc5740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/pochen/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_fdd0ea0281bb3c2ca3ea65a6ccc2266c26caae11/classes.dex" />
+    </item>
+
+</items>
